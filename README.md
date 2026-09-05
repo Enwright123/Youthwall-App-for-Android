@@ -48,3 +48,4 @@ Youthwall 的程式碼目前 **不開源**。
 ## 🙌 作者
 Developed by Enwright
 Youthwall Android Project
+https://youthwall.dpdns.org
